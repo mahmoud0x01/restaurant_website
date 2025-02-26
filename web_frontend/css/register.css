@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+.register-container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #fff; /* White container */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.register-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #333333; /* Blue button */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.register-btn:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+}
+
+.side-text {
+    text-align: center;
+    margin-top: 15px;
+    color: #666;
+}
+
+.side-text a {
+    color: #007bff; /* Blue link */
+    text-decoration: none;
+}
+
+.side-text a:hover {
+    text-decoration: underline;
+}

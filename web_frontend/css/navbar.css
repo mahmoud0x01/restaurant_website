@@ -1,0 +1,28 @@
+/* navbar.css */
+
+#navbar-container .navbar {
+  background-color: #adb5bd; /* Set the background color of the navbar */
+}
+
+#navbar-container .navbar-brand {
+  color: #333333; /* Set the text color of the navbar brand */
+  font-weight: bold;
+}
+
+#navbar-container .nav-link {
+  color: #333333; /* Set the text color of the navbar links */
+}
+
+#navbar-container .nav-link:hover {
+  color: #666666; /* Set the text color of the navbar links on hover */
+}
+
+#navbar-container .navbar-toggler {
+  border-color: #333333; /* Set the border color of the navbar toggler icon */
+}
+
+#navbar-container .nav-link {
+  font-weight: bold; /* Set the font weight of the active navbar link */
+}
+
+/* Additional styles can be added here if needed */

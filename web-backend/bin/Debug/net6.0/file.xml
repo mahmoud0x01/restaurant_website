@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mahmoud_Restaurant</name>
+    </assembly>
+    <members>
+        <member name="M:Mahmoud_Restaurant.Controllers.AccountController.UpdateProfile(Mahmoud_Restaurant.Models.UpdateProfileRequest)">
+            <summary>
+            Add dish to cart.
+            </summary>
+            <remarks>
+            This endpoint allows adding a dish to the user's basket by specifying the dish ID.
+            </remarks>
+            <param name="dishId">The ID of the dish to be added.</param>
+            <returns>Response indicating whether the dish was successfully added.</returns>
+        </member>
+        <member name="P:Mahmoud_Restaurant.Controllers.DishQueryParams.Categories">
+            <summary>
+            List of categories to filter by
+            </summary>
+        </member>
+        <member name="P:Mahmoud_Restaurant.Controllers.DishQueryParams.Vegetarian">
+            <summary>
+            Filter by vegetarian dishes
+            </summary>
+        </member>
+        <member name="P:Mahmoud_Restaurant.Controllers.DishQueryParams.Sorting">
+            <summary>
+            Sorting criteria (e.g., NameAsc, NameDesc, PriceAsc, PriceDesc, RatingAsc, RatingDesc)
+            </summary>
+        </member>
+        <member name="P:Mahmoud_Restaurant.Controllers.DishQueryParams.Page">
+            <summary>
+            Page number for pagination
+            </summary>
+        </member>
+        <member name="T:Mahmoud_Restaurant.Migrations.Migration_last">
+            <inheritdoc />
+        </member>
+        <member name="M:Mahmoud_Restaurant.Migrations.Migration_last.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Mahmoud_Restaurant.Migrations.Migration_last.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Mahmoud_Restaurant.Migrations.Migration_last.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
