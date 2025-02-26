@@ -1,8 +1,6 @@
-#Full Stack Web Application (API + Frontend) for an Online Delivery Restaurant
+# Full Stack Web Application (API + Frontend) for an Online Delivery Restaurant
 
 **Technologies:** C#, .NET, PostgreSQL, HTML/CSS, JavaScript (Frontend)
-**GitHub:** [Insert GitHub link here]  
-
 **Description:**
 Developed a full-stack project featuring an API for an online delivery restaurant with a comprehensive system including user authentication, dish management, order cart, and rating functionality.  
 
