@@ -14,7 +14,7 @@
 - rating a dish when it's possible
 - Deleting a dish from cart 
 
-![website screenshot](/Screenshot_from_2024-05-29_19-39-55.png)
+![website screenshot](/web_frontend/Screenshot_from_2024-05-29_19-39-55.png)
 
 
 # THANKS
